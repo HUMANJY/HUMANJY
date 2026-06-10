@@ -15,7 +15,6 @@
 ### 🛠 Tech Stack & Interests
 * **AI & Computer Vision:** 이미지 처리 및 모델링에 관심이 많습니다.
 * **Federated Learning:** 프라이버시 보장형 학습 시스템 프로젝트를 진행 중입니다.
-* **Embedded & Software:** 하드웨어와 소프트웨어를 아우르는 개발을 지향합니다.
 
 ---
 
