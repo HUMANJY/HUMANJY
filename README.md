@@ -1,16 +1,16 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{HUMANJY}"/>
+  <img src="https://render.gitanimals.org/farms/HUMANJY"/>
 </a>
 
 ## Hi I'M JUYUN 👋
 
-<h2> 🌱 I’m currently learning </h2>
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://humanjy.github.io/juyun-portfolio/)
+
+<h2> 🌱 I'm currently learning </h2>
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
 
 ### 🛠 Tech Stack & Interests
 * **AI & Computer Vision:** 이미지 처리 및 모델링에 관심이 많습니다.
@@ -20,4 +20,5 @@
 ---
 
 ### 📬 Contact Me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:본인이메일@gmail.com)](mailto:본인이메일@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://humanjy.github.io/juyun-portfolio/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:본인이메일@gmail.com)
