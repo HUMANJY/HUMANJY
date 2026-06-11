@@ -1,10 +1,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/guilds/CODE-BUILDING/draw"/>
 </a>
-</a>
 
 ## Hi I'M JUYUN 👋
-
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://humanjy.github.io/juyun-portfolio/)
 
 <h2> 🌱 I'm currently learning </h2>
@@ -21,4 +19,4 @@
 
 ### 📬 Contact Me
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://humanjy.github.io/juyun-portfolio/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:본인이메일@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:jjuyun02@naver.com)
