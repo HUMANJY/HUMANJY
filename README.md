@@ -1,5 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{HUMANJY}"/>
+  <img src="https://render.gitanimals.org/guilds/{ForeverYoung}/draw"/>
 </a>
 
 ## Hi I'M JUYUN 👋
